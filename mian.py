@@ -9,6 +9,7 @@ from heap_queue import HeapPQueue
 from friend_manager import FriendManager
 from search import bmh_search  
 
+
 class TwitterApp:
     def __init__(self, root):
         self.root = root
